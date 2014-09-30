@@ -1,0 +1,4 @@
+$node_(0) set X_ 0
+$node_(0) set Y_ 30
+$ns_ at 0.0 "$node_(0) setdest 400 30 1.3999999999999992"
+
